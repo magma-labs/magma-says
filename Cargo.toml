@@ -1,0 +1,12 @@
+[package]
+name = "magma-says"
+version = "0.1.0"
+authors = ["César Carruitero <ccarruitero@protonmail.com>"]
+edition = "2018"
+description = "A magma implementation for classic cowsay"
+homepage = "https://github.com/magma-labs/magma-says"
+repository = "https://github.com/magma-labs/magma-says"
+license = "MIT"
+
+[lib]
+name = "magma_says"
